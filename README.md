@@ -8,6 +8,10 @@
   <a href="https://www.ruby-lang.org/ja/"><img src="https://gyazo.com/f1e4e16d76b2e64b9c7ad6a368dd9bd1" height="45px;" /></a>
 </p>
 
+## 💡 Summary
+
+"アクアリウムに関する情報の投稿サイトです"
+
 ## 🌐 App URL
 
 ### **https://** 
