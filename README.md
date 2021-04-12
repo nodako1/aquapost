@@ -21,11 +21,11 @@
 `$ git clone https://github.com/`
 
 
-~version~
+<version>
 
 'rails', '~> 6.0.0'
 
-'mysql2', '0.5.3'"
+'mysql2', '0.5.3'
 
 ## 📦 Features
 
