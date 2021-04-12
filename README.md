@@ -21,7 +21,7 @@
 `$ git clone https://github.com/`
 
 
-<version>
+#### version
 
 'rails', '~> 6.0.0'
 
