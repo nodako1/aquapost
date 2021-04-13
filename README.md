@@ -27,6 +27,10 @@
 
 'mysql2', '0.5.3'
 
+### image
+
+photo-AC
+
 ## 📦 Features
 
 <h3 align="center">- トップページ -</h3>
