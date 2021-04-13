@@ -23,9 +23,15 @@
 
 #### version
 
+ruby '2.6.5'
+
 'rails', '~> 6.0.0'
 
 'mysql2', '0.5.3'
+
+### image
+
+photo-AC
 
 ## 📦 Features
 
