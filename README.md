@@ -9,6 +9,10 @@
 
 アクアリウムに関する情報掲載サイトです
 
+## 📝　How to Use
+
+目次にある見出しをクリックすると見たい情報へ移動出来ます
+
 ## 🌐 App URL
 
 ### **https://aquapost.herokuapp.com/** 
