@@ -18,7 +18,7 @@
 
 ## 💬 Usage
 
-`$ git clone https://github.com/`
+`$ git clone https://github.com/nodako1/aquapost.git`
 
 
 #### version
