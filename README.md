@@ -4,9 +4,6 @@
 
 <h2 align="center">Aquapost</h2>
 
-<p align="center">
-  <a href="https://www.ruby-lang.org/ja/"><img src="https://gyazo.com/f1e4e16d76b2e64b9c7ad6a368dd9bd1" height="45px;" /></a>
-</p>
 
 ## 💡 Summary
 
@@ -37,21 +34,21 @@ photo-AC
 
 <h3 align="center">- トップページ -</h3>
 
-<p align="center">
-  <img src="https://〜.jpg" width=40%>
-</p>
+
+  [![Image from Gyazo](https://i.gyazo.com/7914a46a43fa11ebe25d7e11d1f12497.jpg)](https://gyazo.com/7914a46a43fa11ebe25d7e11d1f12497)
+
 
 <h3 align="center">- 目次 -</h3>
 
-<p align="center">
-  <img src="https://〜.jpg" width=40%>
-</p>
+
+[![Image from Gyazo](https://i.gyazo.com/254c0db7eebab1fcdbef77cd393562de.png)](https://gyazo.com/254c0db7eebab1fcdbef77cd393562de)
+
 
 <h3 align="center">- 情報 -</h3>
 
-<p align="center">
-  <img src="https://〜.jpg" width=40%>
-</p>
+
+[![Image from Gyazo](https://i.gyazo.com/1c296f49192ea875a4abd619de7985c6.png)](https://gyazo.com/1c296f49192ea875a4abd619de7985c6)
+
 
 ## ✨ 課題解決
 
